@@ -1,2 +1,7 @@
-# MathEngine
-MathEngine é um projeto que fortalece habilidades em C++ ao revisitar conceitos de matemática básica e do ensino superior. Em constante evolução, o projeto oferece uma plataforma flexível para aprimorar tanto as habilidades de programação quanto a compreensão matemática, com planos de expansão contínua.
+MathEngine representa um projeto ambicioso em C++, buscando proporcionar uma experiência educacional abrangente e prática. Focaliza-se na melhoria das habilidades de programação em C++ e na revisão minuciosa de conceitos matemáticos, abrangendo desde operações básicas até tópicos avançados do ensino superior.
+
+Inicialmente, o projeto apresentará funções simples como soma, subtração, multiplicação, divisão, cálculos de ângulos, logaritmos, trigonometria e resolução de funções de até terceiro grau. À medida que evolui, incorporará cálculos vetoriais, identificação de figuras cônicas, operações com matrizes (como o método de Gauss-Jordan), resolução de sistemas lineares e, em estágios avançados, o desenvolvimento de uma interface gráfica para interação do usuário.
+
+A etapa inicial do projeto foca no desenvolvimento de classes e funções, acionadas por um arquivo main. Considera-se futuramente a implementação de uma interface gráfica para facilitar a interação do usuário, além da criação de uma ferramenta capaz de esboçar gráficos e vetores, enriquecendo ainda mais a experiência de aprendizado e prática em matemática e programação.
+
+Na concretização deste projeto, será baseado em conhecimentos provenientes de diversas fontes literárias, tais como: os volumes 1 e 2 do livro de cálculo do renomado autor James Stewart; o livro "Um Curso de Geometria Analítica e Álgebra Linear" do autor Reginaldo Santos; e ainda, o livro "Álgebra Linear com Aplicações", escrito pelos autores Howard Anton e Chris Rorres. A integração dessas referências proporcionará uma base sólida e abrangente para o desenvolvimento bem-sucedido do MathEngine.
