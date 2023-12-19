@@ -1,4 +1,4 @@
-#include "numero_exponencial.h"
+#include "../include/numero_exponencial.hpp"
 
 
 NumeroExponencial::NumeroExponencial(){

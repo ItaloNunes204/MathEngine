@@ -1,4 +1,4 @@
-#include "numero_logaritmo.h"
+#include "../include/numero_logaritmo.hpp"
 
 NumeroLogaritmo::NumeroLogaritmo(){
     

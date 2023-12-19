@@ -1,4 +1,3 @@
-
 // Classe para números racionais ou frações
 class NumeroRacional{
 private:

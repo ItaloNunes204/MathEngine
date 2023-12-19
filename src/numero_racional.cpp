@@ -1,4 +1,4 @@
-#include "numero_racional.h"
+#include "numero_racional.hpp"
 
 
 void NumeroRacional::simplifica(){
